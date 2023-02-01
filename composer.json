@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lazzard/php-ftp-client": "^1.7"
+    }
+}

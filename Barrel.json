@@ -1,0 +1,8 @@
+{
+  "name": "储存桶",
+  "description": "扩展上传系统,目前支持FTP上传",
+  "version": "0.0.1",
+  "author": "zhuchunshu",
+  "link": "https://github.com/zhuchunshu",
+  "masterVersion": "v2.2.8"
+}
